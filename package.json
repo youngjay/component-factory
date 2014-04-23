@@ -1,6 +1,6 @@
 {
   "name": "component-factory",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "component-factory =================",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/youngjay/component-factory/issues"
   },
-  "homepage": "https://github.com/youngjay/component-factory"
+  "homepage": "https://github.com/youngjay/component-factory",
+  "dependencies": {
+    "mixin-class": "^1.0.1"
+  }
 }
