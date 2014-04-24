@@ -1,6 +1,6 @@
 {
   "name": "component-factory",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "component-factory =================",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/youngjay/component-factory",
   "dependencies": {
-    "mixin-class": "^1.0.1",
+    "mixin-class": "*",
     "lodash": "*"
   }
 }
